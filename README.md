@@ -5,10 +5,10 @@ its a small initialization script for c projects (c11 but can be changed easily)
 call it with the project name you want.
 ## what it does
 creates
-1. a super simple project structured like this:
-   /projectname/src/
-   /projectname/build/
-   /projectname/main.c
+1. a super simple project structured like this:\
+   /projectname/src/\
+   /projectname/build/\
+   /projectname/main.c\
    /projectname/makefile
 2. the makefile contains:
    * all, run and clean make targets
